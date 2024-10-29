@@ -2,6 +2,10 @@
 
 This project demonstrates the use of machine learning, specifically logistic regression, to detect fraudulent credit card transactions.
 
+# Dataset Link
+
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbExkbUZpZ1lKaEhyRHdsckEzMm40ek1RZlhSQXxBQ3Jtc0tuSkFCbkwyUW5rYUhuTE9LRW9TYjZHMnd0WlZKTEZvWU9EVEo5a19sZTJTdGlCWnRGYmh3V0JKUFhCNlcxc19rdDlZTXhSOTFhLWtiQVJ6TF9FZ3g0N3hZaF81T0Y5ZnFiVENDNFBRSEJ0MGZFMUJ1RQ&q=https%3A%2F%2Fwww.kaggle.com%2Fmlg-ulb%2Fcreditcardfraud&v=NCgjcHLFNDg
+
 ## Dataset
 
 The project utilizes the "creditcard.csv" dataset. This dataset contains information about credit card transactions, including features such as transaction amount, time, and various anonymized features.
